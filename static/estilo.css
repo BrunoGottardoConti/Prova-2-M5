@@ -1,0 +1,10 @@
+.pou-reader{
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    line-height: 1.5;
+    color: #333;
+    background-color: #dad7d7c9;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
